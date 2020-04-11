@@ -1,4 +1,4 @@
-## Privacy Policy
+**Privacy Policy**
 
 Ryuya Nishino built the Smokem app as a Free app. This SERVICE is provided by Ryuya Nishino at no cost and is intended for use as is.
 
@@ -18,7 +18,6 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Expo](https://expo.io/privacy)
 
 **Log Data**
@@ -56,7 +55,9 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2020-04-11
 
 **Contact Us**
 
